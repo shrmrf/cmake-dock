@@ -1,4 +1,0 @@
-/home/fahd/development/self-practice/cmake-dock/CMakeFiles/edit_cache.dir
-/home/fahd/development/self-practice/cmake-dock/CMakeFiles/rebuild_cache.dir
-/home/fahd/development/self-practice/cmake-dock/CMakeFiles/hello_lib.dir
-/home/fahd/development/self-practice/cmake-dock/CMakeFiles/prog.dir
