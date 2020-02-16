@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fahd/development/self-practice/cmake-dock/hello.h
+string
+-
+
+/home/fahd/development/self-practice/cmake-dock/main.cpp
+hello.h
+/home/fahd/development/self-practice/cmake-dock/hello.h
+iostream
+-
+string
+-
+
