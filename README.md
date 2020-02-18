@@ -1,4 +1,6 @@
 # Learning about Containers
+![CI](https://github.com/shrmrf/cmake-dock/workflows/CI/badge.svg)
+
 This repo is to learn how Linux containers work under-the-hood
 
 ## Pre-requisites
