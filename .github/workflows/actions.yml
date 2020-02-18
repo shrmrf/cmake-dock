@@ -9,6 +9,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: Install deps
+      run: |
+        apt update && apt install -y build-essential cmake valgrind
     - name: Build and run
       run: |
         mkdir build && cd build
